@@ -1,0 +1,13 @@
+.container{
+    margin:0 100px;
+}
+.courses{
+    margin: 50px 0px;
+    text-align: center;
+}
+.courses-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+

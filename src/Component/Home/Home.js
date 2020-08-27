@@ -60,7 +60,7 @@ const Home = () => {
               >
                 Log in
               </Button>
-              <Button variant="info" className="element-height btn-info">
+              <Button variant="info" className="element-height btn">
                 Sign up
               </Button>
             </Nav>
@@ -74,7 +74,7 @@ const Home = () => {
           <h1>Learn any thing...</h1>
           <h1>Any time...</h1>
           <h1>Any where...</h1>
-          <Button className="btn-info">Learn more</Button>
+          <Button className="btn-info btn">Learn more</Button>
         </div>
       </div>
     </div>

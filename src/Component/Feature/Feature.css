@@ -1,0 +1,21 @@
+.feature{
+    display: flex;
+}
+.features{
+    width: 30%;
+    padding:20px 0;
+    margin:0 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.icons{
+    background-color: rgb(253, 228, 232);
+    width:100px;
+    height:100px;
+    padding: 26px 0px 0px 33px;
+    display:inline-block;
+    border-radius: 50%;
+    margin-right: 15px;
+    font-size: 30px;
+    color:rgb(255, 0, 119);
+}
